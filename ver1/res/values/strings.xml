@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NCSCO</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">الضباط</string>
+    <string name="title_section2">الصف و الجنود</string>
+    <string name="title_section3">المدنيين</string>
+
+</resources>
