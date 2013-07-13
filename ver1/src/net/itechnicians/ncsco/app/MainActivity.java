@@ -1,10 +1,10 @@
 package net.itechnicians.ncsco.app;
 
+import net.itechnicians.ncsco.R;
+
 import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.ActionBar.Tab;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
-import com.example.pruebaactionbar.R;
-
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 

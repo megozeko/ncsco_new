@@ -2,7 +2,7 @@ package net.itechnicians.ncsco.app;
 
 import java.util.Locale;
 
-import com.example.pruebaactionbar.R;
+import net.itechnicians.ncsco.R;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
