@@ -2,20 +2,17 @@ package net.itechnicians.ncsco.app;
 
 import java.util.Locale;
 
-import com.example.pruebaactionbar.R;
+import net.itechnicians.ncsco.R;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-
-
 import android.support.v4.app.FragmentPagerAdapter;
 
 public class PagerAdapter extends FragmentPagerAdapter {
 
 	private Context context;
 
-	public PagerAdapter(FragmentManager fm, Context context) {
+	public PagerAdapter(android.support.v4.app.FragmentManager fm, Context context) {
 		super(fm);
 		this.context = context;
 	}
